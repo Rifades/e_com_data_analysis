@@ -52,3 +52,17 @@ The analysis notebook, `Cust_Purch_Data_Exercise.ipynb`, guides the user through
 - **Pandas**: Essential for data loading, cleaning, and manipulation.
 - **Matplotlib**: Used for creating static visualizations to represent data insights.
 - **Seaborn**: A powerful library built on Matplotlib, used for creating more aesthetically pleasing statistical graphics.
+
+### How to Run the Project
+
+1. Clone this repository to your local machine.
+2. Ensure you have Python installed. It is recommended to use a virtual environment.
+3. Install the required libraries using the `requirements.txt` file:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Open the `Cust_Purch_Data_Exercise.ipynb` notebook in Jupyter or a similar environment (e.g., VS Code).
+5. Run the cells in the notebook sequentially to see the full data analysis process and the resulting insights.
+
